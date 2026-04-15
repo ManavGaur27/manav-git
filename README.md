@@ -1,4 +1,5 @@
 # manav-git
 This is my first git repository.
 <br>
-Author - Manav Gaur 
+Author - Manav (Gaurgit) 
+git 
